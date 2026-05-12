@@ -1,0 +1,20 @@
+https://github.com/datosgobes/Laboratorio-de-Datos/tree/main/Visualizaciones
+https://github.com/datosgobes/Laboratorio-de-Datos/tree/main/Data%20Science
+
+https://datos.gob.es/es/conocimiento/unity-catalog-potenciando-la-colaboracion-en-el-ecosistema-data-e-ia-mediante-codigo
+
+https://datos.gob.es/es/conocimiento/disena-y-visualiza-con-d3js-datos-de-siniestralidad-en-carretera
+
+https://datos.gob.es/es/catalogo/e00130502-ficheros-de-microdatos-de-accidentes-con-victimas-2024
+
+https://observablehq.com/@dataviz-datos-gob-es
+
+notebooks reactivos:
+
+jupyter (python, R, C...notebooks clasicos)
+
+marimo (python)
+
+observable (javascript; d3.js; visualizacion web)
+
+pluto.jl (Julia; computacion científica reactiva)
